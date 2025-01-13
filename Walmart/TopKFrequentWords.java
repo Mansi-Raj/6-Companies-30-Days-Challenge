@@ -1,4 +1,4 @@
-package Walmar;
+package Walmart;
 
 import java.util.ArrayList;
 import java.util.HashMap;
